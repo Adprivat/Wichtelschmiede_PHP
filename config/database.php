@@ -5,7 +5,7 @@
 $host = 'localhost';
 $dbname = 'wichtelschmiede';
 $username = 'root';
-$password = '';
+$password = '00123Cider00123?';
 
 // Verbindung herstellen
 $conn = new mysqli($host, $username, $password, $dbname);
