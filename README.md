@@ -4,12 +4,6 @@ Eine PHP-Implementierung der Wichtelschmiede-Anwendung, die ausschließlich HTML
 
 ## Übersicht
 
-Diese Anwendung ist eine Neuimplementierung der [Wichtelschmiede](https://github.com/Adprivat/Wichtelschmiede) mit folgenden Technologien:
-- HTML
-- CSS
-- PHP
-- MySQL
-
 Die Anwendung ermöglicht die Verwaltung von Materialien, Gießpulvern, Gießformen und Werkstücken für eine Wichtelschmiede.
 
 ## Funktionen
