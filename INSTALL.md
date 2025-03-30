@@ -33,7 +33,7 @@ Diese Anleitung beschreibt, wie Sie die Wichtelschmiede-Anwendung auf einem loka
    $host = 'localhost';     // Datenbankserver
    $dbname = 'wichtelschmiede'; // Datenbankname
    $username = 'root';      // Datenbankbenutzer
-   $password = '';          // Datenbankpasswort
+   $password = 'YOUR_DATABASE_PASSWORD';  // Bitte durch Ihr Passwort ersetzen
    ```
 
 4. **Berechtigungen setzen**

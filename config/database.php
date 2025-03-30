@@ -5,7 +5,7 @@
 $host = 'localhost';
 $dbname = 'wichtelschmiede';
 $username = 'root';
-$password = '00123Cider00123?';
+$password = 'YOUR_DATABASE_PASSWORD';  // Bitte durch Ihr Passwort ersetzen
 
 // Verbindung herstellen
 $conn = new mysqli($host, $username, $password, $dbname);
